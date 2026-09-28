@@ -1,0 +1,17 @@
+{
+  "dataset_url": "https://huggingface.co/datasets/Krooz/Campus_Recruitment_CSV",
+  "target": "PlacementStatus",
+  "expected_features": [
+    "CGPA",
+    "Internships",
+    "Projects",
+    "Workshops/Certifications",
+    "AptitudeTestScore",
+    "SoftSkillsRating",
+    "ExtracurricularActivities",
+    "PlacementTraining",
+    "SSC_Marks",
+    "HSC_Marks"
+  ],
+  "provenance_note": "Use the source's own wording; do not call this institutionally verified real student data without independent provenance evidence."
+}

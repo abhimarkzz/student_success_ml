@@ -1,0 +1,11 @@
+pandas>=2.2
+numpy>=2.0
+scikit-learn>=1.5
+catboost>=1.2.7
+shap>=0.46
+optuna>=4.0
+joblib>=1.4
+ucimlrepo>=0.0.7
+huggingface_hub>=0.26
+streamlit>=1.40
+plotly>=5.24
